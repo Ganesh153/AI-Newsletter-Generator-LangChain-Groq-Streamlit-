@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-groq
+langchain-core
+langchain-community
+sentence-transformers
+faiss-cpu
+google-serper
+unstructured
+pypdf
+python-dotenv
+pandas
+openai
